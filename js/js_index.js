@@ -1,4 +1,4 @@
-var sliderMedbLon = document.getElementById("storlek");
+﻿var sliderMedbLon = document.getElementById("storlek");
 var sliderNettoMottagare = document.getElementById("nettomottagare");
 var outputStorlek = document.getElementById("visaStorlek");
 var outputResultat = document.getElementById("resultat");
